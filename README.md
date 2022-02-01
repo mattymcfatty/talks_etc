@@ -11,6 +11,7 @@ Blog from a unique red team phishing engagement. Skewed a little towards a blue 
 * https://eng.sigmacomputing.com/hack-your-company-before-someone-else-does-58d1acc42df2
 
 Ran an application security training class at BSidesKC 2021.
+
 Ran an application security training class at KernelCon 2020 and 2021.
 
 Assorted blog posts I have made. The one about reverse engineering an ATM skimmer I found was especially popular.
