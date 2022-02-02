@@ -29,3 +29,9 @@ Tool I helped develop for Blackhat Arsenal 2015. The idea was decent, but the to
 Couple of small potatoes CVEs that aren't worth bragging about:
 * CVE-2017-17698 : Zoho ManageEngine Password Manager Pro 9 before 9.4 (9400) has reflected XSS in SearchResult.ec and BulkAccessControlView.ec
 * CVE-2016-9274  : Vulnerability Discovered in Git Bash for Windows
+
+Certs:
+* Offensive Security Certified Professional (OSCP) : Issued Oct 2018
+* AWS Certified Security – Specialty : Issued Apr 2021
+* CREST Practitioner Security Analyst (CPSA) : Issued Feb 2020
+* CREST Registered Penetration Tester : Issued Feb 2020
