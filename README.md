@@ -1,7 +1,7 @@
 # talks_etc
 List of some talks I've done and other "merit badges."
 
-Upcoming local talk about pentesting methodology in the cloud:
+Local talk about pentesting methodology in the cloud:
 * https://www.eventbrite.com/e/february-meetup-red-team-and-public-cloud-tickets-253443816277?aff=ebdssbdestsearch
 
 WebAuthN talk I gave at BSidesKC in 2021
